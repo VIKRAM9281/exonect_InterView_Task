@@ -13,7 +13,6 @@ This component displays data fetched using a GET method from a specified API end
 
 ### Screenshot:
 ![Screenshot 1](/src/assets/images/Screenshot%201%20(1).png)
-*Replace `/src/assets/images/Screenshot%201%20(1).png` with the actual path to your screenshot.*
 
 ---
 
@@ -27,7 +26,6 @@ This component is a register form that includes input fields with form validatio
 
 ### Screenshot:
 ![Screenshot 2](/src/assets/images/Screenshot%202.png)
-*Replace `/src/assets/images/Screenshot%202.png` with the actual path to your screenshot.*
 
 ---
 
