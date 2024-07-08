@@ -1,13 +1,42 @@
-# exonect_InterView_Task
-InterView_Task
+# Interview Task
 
-in that Task added the 2 component
-1)Api Table :- in that table show the data using get method
-path :- /
-url -https://api.apis.guru/v2/list.json
-[" screenshow 1"]("/src/assets/images/Screenshot 1 (1).png")
+## 1. API Table
 
-2)register form : in that form added the input field with adding the form valition using the regular expression 
-path :- /register
-screenshot of the register form 
-[" screenshow 2"]("/src/assets/images/Screenshot 2.png")
+### Description:
+This component displays data fetched using a GET method from a specified API endpoint.
+
+### Path:
+`/`
+
+### API Endpoint:
+[https://api.apis.guru/v2/list.json](https://api.apis.guru/v2/list.json)
+
+### Screenshot:
+![Screenshot 1](/src/assets/images/Screenshot%201%20(1).png)
+*Replace `/src/assets/images/Screenshot%201%20(1).png` with the actual path to your screenshot.*
+
+---
+
+## 2. Register Form
+
+### Description:
+This component is a register form that includes input fields with form validation using regular expressions.
+
+### Path:
+`/register`
+
+### Screenshot:
+![Screenshot 2](/src/assets/images/Screenshot%202.png)
+*Replace `/src/assets/images/Screenshot%202.png` with the actual path to your screenshot.*
+
+---
+
+## Project Setup Instructions
+
+### Prerequisites:
+- Node.js and npm installed on your machine.
+
+### Setup:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/VIKRAM9281/exonect_InterView_Task.git
